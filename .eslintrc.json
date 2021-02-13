@@ -37,7 +37,8 @@
                 "singleQuote": true,
                 "trailingComma": "all",
                 "arrowParens": "avoid",
-                "endOfLine": "auto"
+                "endOfLine": "auto",
+                "semi": false
             }
         ],
         "no-use-before-define": "off"

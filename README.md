@@ -393,7 +393,8 @@ Porém após modificar de acordo com minhas preferências, o resultado do arquiv
                 "singleQuote": true,
                 "trailingComma": "all",
                 "arrowParens": "avoid",
-                "endOfLine": "auto"
+                "endOfLine": "auto",
+                "semi": false
             }
         ],
         "no-use-before-define": "off"
