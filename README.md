@@ -397,7 +397,20 @@ Porém após modificar de acordo com minhas preferências, o resultado do arquiv
             }
         ],
         "no-use-before-define": "off"
-    }
+    },
+    "overrides": [
+        {
+            "files": [
+                "__tests__/*.js"
+            ],
+            "rules": {
+                "react/jsx-filename-extension": "off"
+            },
+            "env": {
+                "jest": true
+            }
+        }
+    ]
 }
 ```
 
