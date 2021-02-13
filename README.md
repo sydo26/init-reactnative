@@ -396,11 +396,7 @@ Porém após modificar de acordo com minhas preferências, o resultado do arquiv
                 "endOfLine": "auto"
             }
         ],
-        "no-use-before-define": "off",
-        "@typescript-eslint/no-use-before-define": ["error"],
-        "import/extensions": ["error", "never"],
-        "no-shadow": "off",
-        "@typescript-eslint/no-shadow": ["error"]
+        "no-use-before-define": "off"
     }
 }
 ```
